@@ -1,2 +1,2 @@
-# code-journal
+# Code Journal
 This is a sample journal.

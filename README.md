@@ -1,7 +1,7 @@
 # Code Journal
-This is a sample journal.
+This is a sample journal entry for the SAIT-WBDV program.
 
 ## Jan 13, 2022
 Goal: [Project - Publish and update a website with Git and GitHub Pages](https://gist.github.com/acidtone/47cb2768acdd42e84ba2ef8229427983)
 - First try at making a Code Journal entry
-- So far so good
+- So far so good!
